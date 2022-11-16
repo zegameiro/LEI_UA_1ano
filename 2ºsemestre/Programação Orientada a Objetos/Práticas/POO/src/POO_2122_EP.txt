@@ -1,0 +1,26 @@
+
+Alínea 1) ----------------------------------
+
+Clients:
+Cool bunch [Viseu]
+The best [Aveiro]
+Team mates [Coimbra]
+
+
+Events:
+Cool bunch [Viseu]
+*** Evento em 2022-07-10, total=0.0
+[]*** Evento em 2022-06-30, total=0.0
+[]*** Evento em 2022-06-24, total=0.0
+[]*** Evento em 2022-06-25, total=0.0
+[]The best [Aveiro]
+*** Evento em 2022-07-10, total=0.0
+[]*** Evento em 2022-06-30, total=0.0
+[]*** Evento em 2022-06-24, total=0.0
+[]*** Evento em 2022-06-25, total=0.0
+[]Team mates [Coimbra]
+*** Evento em 2022-07-10, total=0.0
+[]*** Evento em 2022-06-30, total=0.0
+[]*** Evento em 2022-06-24, total=0.0
+[]*** Evento em 2022-06-25, total=0.0
+[]
