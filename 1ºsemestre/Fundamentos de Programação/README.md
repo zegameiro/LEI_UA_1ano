@@ -9,5 +9,5 @@
 - Listas, Tuples, Strings, Sets e dicionários;
 - Ficheiros;
 - Searching e Sorting;
-- Funções Recursivas.
+- Funções Recursivas.<br />
 Encontram-se os slides das aulas teóricas e os guiões para as aulas práticas, algumas resoluções puderam estar erradas ou incompletas.
