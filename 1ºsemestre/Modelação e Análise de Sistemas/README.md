@@ -12,7 +12,8 @@
 - Gestão de equipas com o SCRUM;
 - User Stories;
 - Arquitetura Evolutiva;
-- Testes e Garantia de Qualidade;<br />
+- Testes e Garantia de Qualidade.<br />
+
 Encontra-se presente os slides das aulas teóricas, os relatórios das aulas práticas e os diagramas UML criados para os relatórios.
 ## Projeto Final
 Realizado por:
@@ -20,4 +21,5 @@ Realizado por:
 - José Mendes (Nºmec: 107188);
 - José Gameiro (Nºmec: 108840);
 - Maria Rafaela Abrunhosa (Nºmec: 107658).<br />
+
 Nota do projeto: 14

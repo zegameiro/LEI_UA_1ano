@@ -6,4 +6,5 @@
 - Integrais de Riemann ou Definidos;
 - Integrais Impróprios;
 - Séries Numéricas. <br />
+
 Encontram-se presentes enunciados de exames de anos anteriores, folhas de exercícios com as soluções e os slides das aulas teórico-práticas.
