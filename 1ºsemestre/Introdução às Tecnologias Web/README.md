@@ -14,8 +14,8 @@
 Encontram-se os guiões para as aulas práticas e os slides das aulas teóricas.
 ## Projeto Final
 Realizado por:
-- José Gameiro (Nºmec: 108840);
-- Maria Rafaela Abrunhosa (Nºmec: 107658). <br />
+- José Gameiro (Nºmec: 108840)
+- Maria Rafaela Abrunhosa (Nºmec: 107658) <br />
 
 Nota do projeto: 14.5
 
