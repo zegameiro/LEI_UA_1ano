@@ -1,5 +1,7 @@
 # Cálculo II
+
 ## Conteúdos
+
 - Séries de Potências e Fórmula de Taylor
     - Séries de Potências
     - Fórmula de Taylor com Resto de Lagrange
@@ -27,7 +29,9 @@
 - Transformada de Laplace
     - Definição e propriedades básicas
     - Propriedades da Transformada de Laplace
-    - Transformada de Laplace inversa <br />
+    - Transformada de Laplace inversa
+
+## Informações
 
 Encontram-se os slides das aulas teóricas, fichas de exercícios com as soluções e resoluções, testes de anos anteriores e notas disponibilizadas pela professora.
 

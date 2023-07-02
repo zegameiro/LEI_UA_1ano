@@ -1,5 +1,7 @@
 # Modelação e Análise de Sistemas
+
 ## Conteúdos
+
 - Introdução à Modelação e Análise de Sistemas
 - Introdução ao UML
 - Diagramas de Atividades
@@ -12,15 +14,17 @@
 - Gestão de equipas com o SCRUM
 - User Stories
 - Arquitetura Evolutiva
-- Testes e Garantia de Qualidade<br />
+- Testes e Garantia de Qualidade
+
+## Informações
 
 Encontra-se presente os slides das aulas teóricas, os relatórios das aulas práticas e os diagramas UML criados para os relatórios.
 
 ## Projeto Final
-Realizado por:
-- Joaquim Rosa (Nºmec: 109089)
-- José Mendes (Nºmec: 107188)
-- José Gameiro (Nºmec: 108840)
-- Maria Rafaela Abrunhosa (Nºmec: 107658)<br />
+
+Realizado em conjunto com:
+- [Joaquim Rosa](https://github.com/JakeRosa)
+- [José Mendes](https://github.com/ZeMendes17)
+- [Maria Rafaela Abrunhosa](https://github.com/mariaabr)
 
 Nota do projeto: 14

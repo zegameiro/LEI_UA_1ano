@@ -1,5 +1,7 @@
 # Programação Orientada a Objetos
+
 ## Conteúdos
+
 - Introdução ao Java
     - Tipos primitivos
     - Entradas e saídas de dados
@@ -34,6 +36,8 @@
 - Entrada e saída de dados
     - Java IO
     - Java NIO
-    - Streams <br />
+    - Streams
+
+## Informações
 
 Encontram-se os slides das aulas teóricas, guiões práticos e algumas resoluções que podem estar erradas ou incompletas e exames de anos anteriores.

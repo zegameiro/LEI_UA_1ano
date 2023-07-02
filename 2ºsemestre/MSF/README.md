@@ -1,5 +1,7 @@
 # Modelação de Sistemas Físicos
+
 ## Conteúdos
+
 - Medição e Modelação
 - Regressão Linear
 - Movimento a uma dimensão
@@ -34,6 +36,8 @@
 - Osciladores Acoplados
     - Modos normais
     - Osciladores acoplados forçados
-    - Ondas <br />
+    - Ondas
+
+## Informações
 
 Encontram-se os slides das aulas teóricas, fichas de exercícios disponibilizadas pelo professor, guiões para as aulas práticas com as soluções, algumas resoluções dos guiões práticos, testes de anos anteriores e resumos disponibilizados pela professor.
